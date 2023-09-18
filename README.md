@@ -13,7 +13,7 @@ npm install
 ## Build
 
 ```sh
-npx vite build
+npm run build
 ```
 
 Then, look into `dist` folder.
